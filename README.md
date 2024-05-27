@@ -1,5 +1,3 @@
-Certainly! Here's a sample content for your README file:
-
 ---
 
 # Fake Social Media Account Detection System
